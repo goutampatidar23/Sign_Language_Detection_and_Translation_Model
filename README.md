@@ -1,1 +1,2 @@
-# Sign_Language_Detection_and_Translation_Model
+The "Sign Language Detection and Translation Model" project focuses on translating Indian Sign Language gestures into words in real-time. It is trained on a dataset of over 1,000 gestures, achieving a 95% accuracy rate and processing gestures in under 200 milliseconds. Tools used include Python, TensorFlow, OpenCV, and NumPy.
+The project efficiently translates Indian Sign Language into words in real-time, achieving high accuracy (95%) with fast processing speeds (<200ms). Tools: Python, TensorFlow, OpenCV, and NumPy.  
